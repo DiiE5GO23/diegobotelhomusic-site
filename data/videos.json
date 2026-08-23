@@ -1,0 +1,24 @@
+{
+  "youtube": {
+    "channel": "https://www.youtube.com/@diegobotelhomusic1997",
+    "channelId": "UCEt5UaM2AmekFn7LviQryDQ",
+    "uploadsPlaylistId": "UUEt5UaM2AmekFn7LviQryDQ"
+  },
+  "instagramReels": [
+    { "url": "https://www.instagram.com/reel/DasmoFORcVF/", "featured": true },
+    { "url": "https://www.instagram.com/reel/DbSifX0pIVo/", "featured": false },
+    { "url": "https://www.instagram.com/reel/DasndWNxe50/", "featured": false }
+  ],
+  "tiktokFull": [
+    { "url": "https://www.tiktok.com/@diegobotelhomusic1997/video/7653699901733522708", "videoId": "7653699901733522708" },
+    { "url": "https://www.tiktok.com/@diegobotelhomusic1997/video/7653732508000914709", "videoId": "7653732508000914709" },
+    { "url": "https://www.tiktok.com/@diegobotelhomusic1997/video/7648750685122710804", "videoId": "7648750685122710804" }
+  ],
+  "tiktokShort": [
+    "https://vt.tiktok.com/ZSV2GGUq4/",
+    "https://vt.tiktok.com/ZSV2tek6o/",
+    "https://vt.tiktok.com/ZSV2Gnvgg/",
+    "https://vt.tiktok.com/ZSV2t6Kh2/",
+    "https://vt.tiktok.com/ZSV2tSAJx/"
+  ]
+}

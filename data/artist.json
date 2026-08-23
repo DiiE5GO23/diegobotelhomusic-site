@@ -1,0 +1,69 @@
+{
+  "artistName": "Diêgobotelhomusic",
+  "legalName": "Diêgo Botelho Pereira",
+  "genreNote": "Estilo livre — sem gênero fixo. Rap, trap, hip hop e também músicas gospel, transitando entre sonoridades conforme a história de cada faixa.",
+  "country": "Brasil",
+  "bio": "Diêgobotelhomusic: transformando emoções em sons. Acompanhe os novos singles, sets exclusivos e grooves autorais.",
+  "officialLinks": {
+    "youtube": "https://www.youtube.com/@diegobotelhomusic1997",
+    "youtubeChannelId": "UCEt5UaM2AmekFn7LviQryDQ",
+    "instagram": "https://www.instagram.com/diegobotelhomusic1997",
+    "tiktok": "https://www.tiktok.com/@diegobotelhomusic1997",
+    "tiktokAlt": "https://www.tiktok.com/@diegobotelhousic1997",
+    "spotify": "https://open.spotify.com/artist/4wr1MGPstvhwOoOleDkGwN",
+    "spotifyArtistId": "4wr1MGPstvhwOoOleDkGwN",
+    "letras": "https://www.letras.mus.br/diegobotelhomusic/",
+    "soundcloud": "https://on.soundcloud.com/Fl7ljSVNR7Ei8j7Wt4",
+    "appleMusic": "https://music.apple.com/br/artist/di%C3%AAgobotelhomusic/1896651116",
+    "emailComercial": "diegobotelhomusic@gmail.com",
+    "emailPessoal": "diegobatalha36@gmail.com",
+    "whatsapp": "+55 27 98150-9434",
+    "whatsappLink": "https://wa.me/5527981509434",
+    "pixKey": "27992372617",
+    "pixLink": "https://linkspix.app/digobotelhomusic"
+  },
+  "releases": [
+    {
+      "title": "Endereço Preferido",
+      "year": "2026",
+      "type": "Single",
+      "cover": "https://i.scdn.co/image/ab67616d00004851f4c94ed366e62e5016f5cd99",
+      "spotifyAlbumId": "3Uz7M0U7O1hZff92lYRlZ1",
+      "lyricsUrl": "PREENCHER_LINK_OFICIAL"
+    },
+    {
+      "title": "Resistência e Esperança",
+      "year": "2026",
+      "type": "Single",
+      "cover": "https://i.scdn.co/image/ab67616d0000485107540565c8b60e14417a7d27",
+      "spotifyAlbumId": "32CHOoda2aLwPncyCZQiaO",
+      "lyricsUrl": "https://www.letras.mus.br/diegobotelhomusic/resistencia-e-esperanca/",
+      "appleMusicUrl": "https://music.apple.com/br/song/resist%C3%AAncia-e-esperan%C3%A7a/6769343936",
+      "soundcloudUrl": "https://on.soundcloud.com/sg1S9G1JkWDU1dgyvn"
+    },
+    {
+      "title": "Coração na Estrada",
+      "year": "INFORMAÇÃO_A_CONFIRMAR",
+      "type": "Single",
+      "cover": "assets/images/diegobotelhomusic-capa-coracao-na-estrada.jpg",
+      "note": "Arte de capa já pronta. Aguardando link oficial de lançamento nas plataformas."
+    }
+  ],
+  "instagramReels": [
+    { "url": "https://www.instagram.com/reel/DasmoFORcVF/", "featured": true },
+    { "url": "https://www.instagram.com/reel/DbSifX0pIVo/", "featured": false },
+    { "url": "https://www.instagram.com/reel/DasndWNxe50/", "featured": false }
+  ],
+  "tiktokVideosFull": [
+    "https://www.tiktok.com/@diegobotelhomusic1997/video/7653699901733522708",
+    "https://www.tiktok.com/@diegobotelhomusic1997/video/7653732508000914709",
+    "https://www.tiktok.com/@diegobotelhomusic1997/video/7648750685122710804"
+  ],
+  "tiktokVideosShort": [
+    "https://vt.tiktok.com/ZSV2GGUq4/",
+    "https://vt.tiktok.com/ZSV2tek6o/",
+    "https://vt.tiktok.com/ZSV2Gnvgg/",
+    "https://vt.tiktok.com/ZSV2t6Kh2/",
+    "https://vt.tiktok.com/ZSV2tSAJx/"
+  ]
+}
