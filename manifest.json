@@ -1,21 +1,19 @@
 {
-  "name": "Diêgobotelhomusic",
+  "name": "Diêgobotelhomusic — Música Oficial",
   "short_name": "Diêgobotelho",
-  "start_url": "/",
+  "description": "Experiência oficial do cantor e compositor Diêgobotelhomusic.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
+  "orientation": "any",
   "background_color": "#0a0a0b",
   "theme_color": "#0a0a0b",
-  "description": "Experiência oficial do cantor e compositor Diêgobotelhomusic.",
+  "categories": ["music", "entertainment"],
+  "prefer_related_applications": false,
   "icons": [
-    {
-      "src": "assets/images/favicon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "assets/images/favicon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
+    {"src":"assets/images/favicon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"assets/images/favicon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
   ]
 }
