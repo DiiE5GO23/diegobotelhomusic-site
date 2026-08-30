@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://SEU_USUARIO.github.io/sitemap.xml
+Sitemap: https://diie5go23.github.io/diegobotelhomusic-site/sitemap.xml
