@@ -1,0 +1,16 @@
+/* DIÊGOBOTELHOMUSIC 2.0 — progressive web app, accessibility and responsive enhancements */
+:root{color-scheme:dark;}
+html[data-theme="light"]{--bg:#f5f2ea;--bg-alt:#ebe7dc;--bg-panel:#fffdf7;--line:#d6cdbb;--text:#171513;--text-dim:#625d54;--gold:#8a671f;--gold-dim:#b0904b;--ember:#8e3522;--ember-br:#aa4329;color-scheme:light;}
+html[data-theme="dark"]{color-scheme:dark;}
+.theme-toggle,.install-app,.language-toggle,.connection-status{font-family:var(--mono);font-size:11px;letter-spacing:.07em;text-transform:uppercase;border:1px solid var(--line);background:var(--bg-panel);color:var(--text);padding:9px 12px;border-radius:var(--radius);cursor:pointer;}
+.theme-toggle:hover,.install-app:hover,.language-toggle:hover{border-color:var(--gold);color:var(--gold);}
+.utility-bar{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:flex-end;}
+.pwa-install-banner{position:fixed;left:16px;right:16px;bottom:16px;z-index:100;background:var(--bg-panel);border:1px solid var(--gold-dim);box-shadow:0 18px 60px rgba(0,0,0,.35);padding:16px;display:flex;gap:14px;align-items:center;justify-content:space-between;transform:translateY(140%);transition:transform .3s ease;}
+.pwa-install-banner.show{transform:translateY(0);}.pwa-install-banner strong{font-family:var(--display);font-size:20px;text-transform:uppercase;}.pwa-install-banner p{margin:3px 0 0;font-size:12px;}.pwa-install-actions{display:flex;gap:8px;flex-shrink:0;}.pwa-install-actions button{font-family:var(--mono);font-size:11px;text-transform:uppercase;padding:9px 12px;border:1px solid var(--line);background:transparent;color:var(--text);cursor:pointer;}.pwa-install-actions .install-confirm{background:var(--gold);color:#171513;border-color:var(--gold);}
+.offline-note{position:fixed;top:72px;right:16px;z-index:90;background:var(--ember);color:#fff;padding:8px 12px;font:11px var(--mono);text-transform:uppercase;letter-spacing:.06em;display:none;}.offline-note.show{display:block;}
+@media(max-width:820px){.utility-bar{padding:0 24px 10px;justify-content:flex-end}.pwa-install-banner{flex-direction:column;align-items:stretch}.pwa-install-actions{justify-content:flex-end}}
+@media(prefers-reduced-motion:reduce){.pwa-install-banner{transition:none}.theme-toggle,.install-app,.language-toggle{transition:none}}
+/* better touch targets */
+button,a{touch-action:manipulation;}
+.nav-toggle{min-width:44px;min-height:44px;}
+.gallery-item{cursor:zoom-in;}
